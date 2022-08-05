@@ -1,7 +1,8 @@
-- born outside of the U.S.
-- children under 5
-- farmworker
-- houseless
-- immigrant / refugee 
-- LGBTQ+<br>
+- Children under 5
+- Farmworkers
+- Houseless individuals & families
+- Immigrants / refugees
+- LGBTQ+
+- Limited English speaking ability
+<br>
 <br>

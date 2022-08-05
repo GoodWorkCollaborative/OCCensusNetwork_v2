@@ -1,6 +1,8 @@
-- Asian American & Pacific Islander
+- Asian American
 - Black & African American
-- Latino/a/e
+- Latinx
 - Middle Eastern & North African
-- Native American & Tribal Communities<br>
+- Native American & Tribal Communities
+- Native Hawaiian / Pacific Islander
+- Non-Hispanic White<br>
 <br>
