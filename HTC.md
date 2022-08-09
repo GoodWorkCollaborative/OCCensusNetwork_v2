@@ -1,5 +1,5 @@
 - Children under 5
-- Farmworkers
+- Farmworker
 - Houseless individuals & families
 - Immigrants / refugees
 - LGBTQ+
