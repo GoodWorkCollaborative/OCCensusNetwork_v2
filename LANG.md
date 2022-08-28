@@ -1,17 +1,20 @@
-- English
-- Arabic
-- Armenian
-- Chinese (Cantonese)
-- Chinese (Mandarin)
-- Farsi
-- Hindi
-- Japanese
-- Khmer
-- Korean
-- Russian
-- Spanish
-- Tagalog
-- Vietnamese
-- Other
+<br>
+<br>
+<b>Search by outreach language &emsp; &emsp; &emsp;</b>
+<li> English</li>
+<li> Arabic</li>
+<li> Armenian</li>
+<li> Chinese (Cantonese)</li>
+<li> Chinese (Mandarin)</li>
+<li> Farsi</li>
+<li> Hindi</li>
+<li> Japanese</li>
+<li> Khmer</li>
+<li> Korean</li>
+<li> Russian</li>
+<li> Spanish</li>
+<li> Tagalog</li>
+<li> Vietnamese</li>
+<li> Other</li>
 <br>
 <br>
