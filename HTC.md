@@ -1,6 +1,4 @@
-<br>
-<br>
-<b> Search by demographic characteristic &emsp; &emsp; &emsp;</b>
+<b> Population demographic characteristics &emsp; &emsp; &emsp;</b>
 <li> Children under 5</li>
 <li> Farmworkers</li>
 <li> Houseless individuals & families</li>

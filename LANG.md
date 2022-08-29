@@ -1,6 +1,4 @@
-<br>
-<br>
-<b>Search by outreach language &emsp; &emsp; &emsp;</b>
+<b>Outreach languages &emsp; &emsp; &emsp;</b>
 <li> English</li>
 <li> Arabic</li>
 <li> Armenian</li>

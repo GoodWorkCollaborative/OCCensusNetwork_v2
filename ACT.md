@@ -1,6 +1,4 @@
-<br>
-<br>
-<b> Search by outreach activity </b>
+<b> Outreach activities </b>
 <li> Caravan / parade</li>
 <li> Door-to-door canvassing</li>
 <li> In-person events / gatherings</li>

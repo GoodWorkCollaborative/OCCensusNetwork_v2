@@ -1,4 +1,4 @@
-# Community Outreach Directory | Orange County<br><br>
+# Community Outreach Directory | Orange County<br>
 <span style="font-size:16px;">
 The <b>Community Outreach Directory of Orange County</b> is a public search tool for local organizations that work with the diverse communities of Orange County. <br><br>
 This map and table directory of community-based organizations builds on outreach data collected during the 2020 Census and is searchable by city, population demographic characteristics, and outreach activities. <br><br>

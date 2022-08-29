@@ -1,6 +1,4 @@
-<br>
-<br>
-<b>Search by race/ethnic group reached</b>
+<b>Race/ethnic groups reached</b>
 <li> Asian American</li>
 <li> Black & African American</li>
 <li> Latino / Latinx</li>
