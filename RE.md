@@ -1,3 +1,6 @@
+<br>
+<br>
+<b><span style="font-size:16px;">Searchable Categories</b><br>
 <b>Race/ethnic groups reached</b>
 <li> Asian American</li>
 <li> Black & African American</li>

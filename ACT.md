@@ -1,3 +1,6 @@
+<br>
+<br>
+<br>
 <b> Outreach activities </b>
 <li> Caravan / parade</li>
 <li> Door-to-door canvassing</li>

@@ -1,3 +1,6 @@
+<br>
+<br>
+<br>
 <b> Population demographic characteristics &emsp; &emsp; &emsp;</b>
 <li> Children under 5</li>
 <li> Farmworkers</li>
