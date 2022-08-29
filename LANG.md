@@ -1,11 +1,11 @@
 <br>
 <br>
 <br>
-<b>Outreach languages &emsp; &emsp; &emsp;</b>
+<b>Outreach languages</b>
 <li> English</li>
 <li> Arabic</li>
 <li> Armenian</li>
-<li> Chinese (Cantonese)</li>
+<li> Chinese (Cantonese)  &emsp; &emsp; &emsp;</li>
 <li> Chinese (Mandarin)</li>
 <li> Farsi</li>
 <li> Hindi</li>
