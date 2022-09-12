@@ -8,4 +8,4 @@ RUN micromamba install -y -f /tmp/env.yaml && \
 ADD . /opt/app/
 WORKDIR /opt/app
 
-CMD panel serve --address="0.0.0.0" --port=$PORT outreach-oc.ipynb --allow-websocket-origin=cbo-directory.herokuapp.com
+CMD panel serve --address="0.0.0.0" --port=$PORT orange-county.ipynb --allow-websocket-origin=map-my-cbo.herokuapp.com
