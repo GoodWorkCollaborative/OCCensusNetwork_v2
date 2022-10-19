@@ -10,4 +10,4 @@ Map My CBO is a free public search tool designed to support partnership, collabo
 The more organizations that are reflected in this map, the more powerful the tool can be to drive partnerships for community outreach, engagement, and activation initiatives, from public health education to benefits enrollment to the 2030 Census.<br>
 <br>
 <span style="font-size:20px;">
-To add or update your organization’s information in the map, please fill out this brief form: [https://forms.gle/EzJcv6rjfQg7R4e9A] (https://docs.google.com/forms/d/e/1FAIpQLSfaBu1fbvZmskzq20rWTNVEoSqhm987XPRTtRJP7f4IrfXZXw/viewform). <br>
+To add or update your organization’s information in the map, please fill out this brief form: [https://forms.gle/EzJcv6rjfQg7R4e9A](https://docs.google.com/forms/d/e/1FAIpQLSfaBu1fbvZmskzq20rWTNVEoSqhm987XPRTtRJP7f4IrfXZXw/viewform). <br>
