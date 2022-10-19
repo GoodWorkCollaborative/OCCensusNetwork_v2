@@ -5,6 +5,7 @@
 <li> English</li>
 <li> Arabic</li>
 <li> Armenian</li>
+<li> Cham</li>
 <li> Chinese (Cantonese)  &emsp; &emsp; &emsp;</li>
 <li> Chinese (Mandarin)</li>
 <li> Farsi</li>
