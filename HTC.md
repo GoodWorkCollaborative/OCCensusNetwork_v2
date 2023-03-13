@@ -5,7 +5,7 @@
 <li> Children under 5</li>
 <li> Farmworkers</li>
 <li> Houseless individuals & families</li>
-<li> Immigrants / refugees</li>
+<li> Immigrants / Refugees</li>
 <li> LGBTQ+</li>
 <li> Limited English speaking ability</li>
 <li> Low broadband subscription rate</li>
