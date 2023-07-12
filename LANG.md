@@ -13,7 +13,9 @@
 <li> Japanese</li>
 <li> Khmer</li>
 <li> Korean</li>
+<li> Pashto</li>
 <li> Russian</li>
+<li> Somali</li>
 <li> Spanish</li>
 <li> Tagalog</li>
 <li> Vietnamese</li>

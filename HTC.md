@@ -2,15 +2,15 @@
 <br>
 <br>
 <b> Population demographic characteristics &emsp; &emsp; &emsp;</b>
-<li> Children under 5</li>
-<li> Farmworkers</li>
-<li> Houseless individuals & families</li>
-<li> Immigrants / Refugees</li>
-<li> LGBTQ+</li>
-<li> Limited English speaking ability</li>
-<li> Low broadband subscription rate</li>
-<li> Older adults / seniors</li>
-<li> People with disabilities</li>
-<li> Veterans</li>
+<li> children under 5</li>
+<li> farmworkers</li>
+<li> houseless / homeless individuals & families</li>
+<li> immigrants / refugees</li>
+<li> LGBTQ / LGBTQ+</li>
+<li> limited English speaking ability</li>
+<li> low broadband subscription rate</li>
+<li> older adults / seniors</li>
+<li> people with disabilities</li>
+<li> veterans</li>
 <br>
 <br>
