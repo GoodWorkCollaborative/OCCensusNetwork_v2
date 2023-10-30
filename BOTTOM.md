@@ -1,7 +1,7 @@
 <br>
 <br>
 <br>
-Hosted by [Charitable Ventures of Orange County](https://charitableventuresoc.org/)<br>
+Hosted by <a href='https://charitableventuresoc.org/'>Charitable Ventures of Orange County</a> <br>
 Contact: cbo-directory@charitableventuresoc.org<br>
-Developed by [Good Work Collaborative](https://www.ourgoodwork.co/)<br>
+Developed by <a href= 'https://www.ourgoodwork.co/'>Good Work Collaborative</a> <br>
 Last update: 10-01-2023<br>
