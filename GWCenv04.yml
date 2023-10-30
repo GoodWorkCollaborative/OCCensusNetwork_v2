@@ -1,0 +1,19 @@
+name: gwc04
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10.12
+  - numpy=1.24.4
+  - pandas=1.5.3
+  - geopandas=0.13.2
+  - bokeh=3.2.1
+  - hvplot=0.8.4
+  - holoviews=1.17.0
+  - geoviews=1.10.1
+  - param=1.13.0
+  - panel=1.2.1
+  - notebook=6.5.4
+  - shapely=2.0.1
+  - descartes=1.1.0
+  - pyepsg=0.4.0
