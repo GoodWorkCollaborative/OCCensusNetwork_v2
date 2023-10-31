@@ -1,4 +1,3 @@
-# Map My CBO
 <span style="font-size:16px;">
 Map My CBO is a free public search tool designed to support partnership, collaboration, and community outreach for local organizations that work with the diverse communities of Orange County. Easy to update and free to use, the map and directory provides regional stakeholders with a unique, point-in-time view of the regional nonprofit and grassroots network, including:
 
