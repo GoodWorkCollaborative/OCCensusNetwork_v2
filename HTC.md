@@ -3,6 +3,7 @@
 <br>
 <b> Population demographic characteristics &emsp; &emsp; &emsp;</b>
 <li> children under 5</li>
+<li> youth (ages 5-17)</li>
 <li> farmworkers</li>
 <li> houseless / homeless individuals & families</li>
 <li> immigrants / refugees</li>
