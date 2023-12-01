@@ -3,6 +3,7 @@
 <br>
 <b>Outreach languages</b>
 <li> English</li>
+<li> American Sign Language (ASL)</li>
 <li> Arabic</li>
 <li> Armenian</li>
 <li> Cham</li>
@@ -20,5 +21,6 @@
 <li> Tagalog</li>
 <li> Vietnamese</li>
 <li> Other</li>
+<li> Hires translators</li>
 <br>
 <br>
