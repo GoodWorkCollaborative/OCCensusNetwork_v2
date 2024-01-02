@@ -8,6 +8,6 @@
 <li> Middle Eastern & North African (MENA)</li>
 <li> Native American & Tribal Communities &emsp; &emsp; &emsp;</li>
 <li> Native Hawaiian & Pacific Islander</li>
-<li> Generale</li>
+<li> General</li>
 <br>
 <br>
