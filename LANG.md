@@ -24,6 +24,6 @@
 <li> Urdu</li>
 <li> Vietnamese</li>
 <li> Other</li>
-<li> Hires translators</li>
+<li> Hires translators for other languages</li>
 <br>
 <br>
