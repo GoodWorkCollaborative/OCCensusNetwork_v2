@@ -14,13 +14,17 @@
 <li> Gujarati</li>
 <li> Hindi</li>
 <li> Japanese</li>
+<li> Kannada</li>
 <li> Khmer</li>
 <li> Korean</li>
+<li> Malayalam</li>
+<li> Marathi</li>
 <li> Pashto</li>
 <li> Russian</li>
 <li> Somali</li>
 <li> Spanish</li>
 <li> Tagalog</li>
+<li> Tamil</li>
 <li> Urdu</li>
 <li> Vietnamese</li>
 <li> Other</li>
