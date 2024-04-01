@@ -1,13 +1,7 @@
 <span style="font-size:16px;">
-Map My CBO is a free public search tool designed to support partnership, collaboration, and community outreach for local organizations that work with the diverse communities of Orange County. Easy to update and free to use, the map and directory provides regional stakeholders with a unique, point-in-time view of the regional nonprofit and grassroots network, including:
-
-<li><span style="font-size:16px;">Services provided, where and in what languages; and</li>
-<li><span style="font-size:16px;">Community outreach and civic engagement capabilities</li>
-
-<span style="font-size:16px;">This map and table directory of community-based organizations builds on outreach data collected during the 2020 Census and is searchable by city, population demographic characteristics, and outreach activities.<br>
-<br>
-The more organizations that are reflected in this map, the more powerful the tool can be to drive partnerships for community outreach, engagement, and activation initiatives, from public health education to benefits enrollment to the 2030 Census.<br>
-<br>
-<mark>To add or update your organization’s information in the map, please fill out this brief form: [https://forms.gle/EzJcv6rjfQg7R4e9A](https://docs.google.com/forms/d/e/1FAIpQLSfaBu1fbvZmskzq20rWTNVEoSqhm987XPRTtRJP7f4IrfXZXw/viewform).</mark> <br>
-<br>
-*Note: We are aware of the slow initial loading time and appreciate your patience! This site will load more quickly each time that you visit it.*
+**Map My CBO** is a point-in-time snapshot of who does what, where, and how for community outreach in Orange County.<br>
+<br>This tool helps to find partners, align resources, and design comprehensive, multilingual, and culturally competent funding and outreach strategies.<br>
+<br>**Outreach organizations**: Join the 200+ organizations on this directory for free!
+Use this [easy 3-minute survey](https://docs.google.com/forms/d/e/1FAIpQLSfaBu1fbvZmskzq20rWTNVEoSqhm987XPRTtRJP7f4IrfXZXw/viewform) to add or update your information.<br>
+<br>Learn more about Map My CBO [here](https://charitableventuresoc.org/strengthening-community-outreach-together-orange-county/).<br>
+<br>For more information about organizations in Orange County, visit [OC Nonprofit Central](https://www.ocnonprofitcentral.org/) and [OC Philanthropy Central](https://ocphilanthropycentral.org/).
